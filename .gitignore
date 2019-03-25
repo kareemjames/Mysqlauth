@@ -163,3 +163,6 @@ gradle-app.setting
 
 /src/main/resources/application.properties
 src/main/resources/application.properties
+
+/gcloud
+gcloud
